@@ -1,12 +1,14 @@
 # test_git
 
-git clone
-git remote add origin
+1. git clone
+2. git remote add origin
 
-ls -a
-git status
+3. ls -a
+4. git status
 
-git add . - добавляет файли в стейдж / обновляем новие записи в проекте
+5. git add . - добавляет файли в стейдж / обновляем новие записи в проекте
 
-git commit -m"описание" / зберигаем проект
-git log / got log --onetine подивиться ветки / сохранения !
+6. git commit -m"описание" / зберигаем проект
+7. git log / got log --onetine подивиться ветки / сохранения !
+
+8. git push [linc-git]
