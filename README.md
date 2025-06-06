@@ -11,4 +11,5 @@
 6. git commit -m"описание" / зберигаем проект
 7. git log / got log --onetine подивиться ветки / сохранения !
 
-8. git push [linc-git]
+8. git push [linc-GitHab] [branch]
+   git push origin main
