@@ -13,3 +13,8 @@
 
 8. git push [linc-GitHab] [branch]
    git push origin main
+
+9. git reset / git reset [имя файла]
+10. git diff /показуе последгие изменения в вайлах
+
+11. git reset --hard
