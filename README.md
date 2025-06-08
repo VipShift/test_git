@@ -20,3 +20,5 @@
 11. git reset --hard
 
 12. .gitignore файл
+
+13. git branch / Добавляе ветку /просмотр ветки
