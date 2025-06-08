@@ -25,3 +25,5 @@
 14. git checkout / преключиться на ветку
 
 15. git pul origin main / забрать изменения с гита на локал
+
+16. git branch -d developer /delit
