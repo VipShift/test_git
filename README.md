@@ -27,3 +27,4 @@
 15. git pul origin main / забрать изменения с гита на локал
 
 16. git branch -d developer /delit
+17. git git merge first / перенести все с ветки на ветку !
