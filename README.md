@@ -9,7 +9,7 @@
 5. git add . - добавляет файли в стейдж / обновляем новие записи в проекте
 
 6. git commit -m"описание" / зберигаем проект
-7. git log / got log --onetine подивиться ветки / сохранения !
+7. git log / git log --onetine подивиться ветки / сохранения !
 
 8. git push [linc-GitHab] [branch]
    git push origin main
@@ -22,3 +22,6 @@
 12. .gitignore файл
 
 13. git branch / Добавляе ветку /просмотр ветки
+14. git checkout / преключиться на ветку
+
+15. git pul origin main / забрать изменения с гита на локал
